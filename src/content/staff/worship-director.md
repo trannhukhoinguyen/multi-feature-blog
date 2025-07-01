@@ -2,9 +2,9 @@
 name: "David Wilson"
 title: "Worship Director"
 image: "/uploads/staff/david-wilson.webp"
-email: "david.wilson@churchname.org"
+email: "david.wilson@housename.org"
 phone: "+1-555-0104"
-bio: "David leads our worship ministry with passion and excellence, bringing over 15 years of experience in church music."
+bio: "David leads our worship ministry with passion and excellence, bringing over 15 years of experience in house music."
 order: 4
 draft: false
 ---
@@ -14,14 +14,14 @@ David Wilson joined our staff in 2018, bringing a wealth of experience in worshi
 ## Areas of Leadership
 
 - Planning and leading worship services
-- Directing the church choir
+- Directing the house choir
 - Mentoring worship team members
 - Organizing special music events
 - Overseeing technical production
 
 ## Musical Background
 
-David is proficient in multiple instruments including piano, guitar, and voice. He has written several worship songs and continues to contribute to our church's musical repertoire.
+David is proficient in multiple instruments including piano, guitar, and voice. He has written several worship songs and continues to contribute to our house's musical repertoire.
 
 ## Vision for Worship
 

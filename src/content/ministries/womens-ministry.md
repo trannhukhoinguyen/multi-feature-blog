@@ -4,7 +4,7 @@ slug: "womens-ministry"
 logo: "/uploads/ministries/womens-ministry-logo.webp"
 summary: "Empowering women to grow in faith, build meaningful relationships, and serve God with their unique gifts and calling."
 coordinator: "Rev. Sarah Martinez"
-contact: "women@churchname.org"
+contact: "women@housename.org"
 schedule: "Women's Circle: 2nd Tuesday 10:00 AM | Evening Study: Thursday 7:00 PM"
 order: 5
 draft: false

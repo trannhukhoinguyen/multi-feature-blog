@@ -70,7 +70,7 @@ const blogCollection = defineCollection({
     slug: z.string().optional(),
     pubDate: z.date(),
     description: z.string(), // Short description for previews
-    author: z.string().default("Church Staff"),
+    author: z.string().default("House Staff"),
     image: z.object({
       url: z.string().startsWith('/uploads/blog/'),
       alt: z.string()

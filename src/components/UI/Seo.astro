@@ -14,8 +14,8 @@ const {
   title,
   description,
   image = {
-    url: "/uploads/church-default.webp",
-    alt: "Church Name",
+    url: "/uploads/house-default.webp",
+    alt: "House Name",
   },
   type = "website",
   canonicalUrl,
@@ -24,9 +24,9 @@ const {
 // Get the canonical URL
 const canonicalURL = canonicalUrl || new URL(Astro.url.pathname, Astro.site);
 
-// Get Church address and contact info (would come from site config in a real implementation)
-const churchInfo = {
-  name: "Church Name",
+// Get House address and contact info (would come from site config in a real implementation)
+const houseInfo = {
+  name: "House Name",
   address: {
     streetAddress: "123 Main Street",
     addressLocality: "Anytown",
@@ -35,7 +35,7 @@ const churchInfo = {
     addressCountry: "US",
   },
   telephone: "+1-555-123-4567",
-  email: "info@churchname.org",
+  email: "info@housename.org",
   url: Astro.site?.toString() || "https://example.com",
 };
 ---
@@ -61,23 +61,23 @@ const churchInfo = {
 <meta property="twitter:image" content={new URL(image.url, Astro.site)} />
 <meta property="twitter:image:alt" content={image.alt} />
 
-<!-- JSON-LD Schema for Church -->
+<!-- JSON-LD Schema for House -->
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Church",
-    "name": "${churchInfo.name}",
+    "@type": "House",
+    "name": "${houseInfo.name}",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "${churchInfo.address.streetAddress}",
-      "addressLocality": "${churchInfo.address.addressLocality}",
-      "addressRegion": "${churchInfo.address.addressRegion}",
-      "postalCode": "${churchInfo.address.postalCode}",
-      "addressCountry": "${churchInfo.address.addressCountry}"
+      "streetAddress": "${houseInfo.address.streetAddress}",
+      "addressLocality": "${houseInfo.address.addressLocality}",
+      "addressRegion": "${houseInfo.address.addressRegion}",
+      "postalCode": "${houseInfo.address.postalCode}",
+      "addressCountry": "${houseInfo.address.addressCountry}"
     },
-    "telephone": "${churchInfo.telephone}",
-    "email": "${churchInfo.email}",
-    "url": "${churchInfo.url}"
+    "telephone": "${houseInfo.telephone}",
+    "email": "${houseInfo.email}",
+    "url": "${houseInfo.url}"
   }
 </script>
 
@@ -92,7 +92,7 @@ const churchInfo = {
         "description": "${description}",
         "publisher": {
           "@type": "Organization",
-          "name": "${churchInfo.name}",
+          "name": "${houseInfo.name}",
           "logo": {
             "@type": "ImageObject",
             "url": "${new URL("/uploads/logo.png", Astro.site)}"

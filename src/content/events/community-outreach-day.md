@@ -14,7 +14,7 @@ draft: false
 
 ## Serving Our Community Together
 
-Our annual Community Outreach Day is an opportunity for our church family to demonstrate God's love through practical service to our neighbors and community.
+Our annual Community Outreach Day is an opportunity for our house family to demonstrate God's love through practical service to our neighbors and community.
 
 ### Service Projects
 

@@ -4,7 +4,7 @@ slug: "mens-ministry"
 logo: "/uploads/ministries/mens-ministry-logo.webp"
 summary: "Building strong Christian men through fellowship, discipleship, and service opportunities that strengthen faith and character."
 coordinator: "Robert Johnson"
-contact: "mens@churchname.org"
+contact: "mens@housename.org"
 schedule: "Men's Breakfast: 1st Saturday 8:00 AM | Bible Study: Thursday 7:00 PM"
 order: 4
 draft: false
@@ -31,7 +31,7 @@ To develop men of character who lead with integrity, serve with humility, and li
 ### Service
 - Using our gifts to serve others
 - Leading by example in our families
-- Contributing to church and community
+- Contributing to house and community
 - Mentoring younger men
 
 ## Regular Programs
@@ -70,7 +70,7 @@ To develop men of character who lead with integrity, serve with humility, and li
 
 ### Community Service Projects
 - Home repairs for elderly and disabled
-- Church maintenance and improvements
+- House maintenance and improvements
 - Community cleanup initiatives
 - Disaster relief assistance
 
@@ -78,7 +78,7 @@ To develop men of character who lead with integrity, serve with humility, and li
 - Annual conference with guest speakers
 - Workshops on marriage, parenting, and leadership
 - Worship and prayer sessions
-- Networking with men from other churches
+- Networking with men from other housees
 
 ## Small Groups
 

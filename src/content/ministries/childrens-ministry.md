@@ -4,8 +4,8 @@ slug: "childrens-ministry"
 logo: "/uploads/ministries/childrens-ministry-logo.webp"
 summary: "Nurturing children ages 0-12 in their faith journey through engaging, age-appropriate programs that teach God's love."
 coordinator: "Mrs. Jennifer Davis"
-contact: "children@churchname.org"
-schedule: "Sunday School: 9:15 AM | Children's Church: 10:30 AM | Wednesday Kids Club: 6:30 PM"
+contact: "children@housename.org"
+schedule: "Sunday School: 9:15 AM | Children's House: 10:30 AM | Wednesday Kids Club: 6:30 PM"
 order: 1
 draft: false
 ---
@@ -38,7 +38,7 @@ To partner with parents in raising children who know, love, and follow Jesus Chr
 
 ### Sunday Programs
 - **9:15 AM**: Sunday School for all ages
-- **10:30 AM**: Children's Church (during main service)
+- **10:30 AM**: Children's House (during main service)
 
 ### Wednesday Programs
 - **6:30 PM**: Kids Club with dinner, games, and Bible study

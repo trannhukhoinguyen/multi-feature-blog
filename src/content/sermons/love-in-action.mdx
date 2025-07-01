@@ -5,7 +5,7 @@ speaker: "Rev. Sarah Martinez"
 series: "Living Like Jesus"
 scripture: "John 13:12-17"
 audioUrl: "https://example.com/sermons/love-in-action.mp3"
-videoUrl: "https://www.youtube.com/embed/example101"
+videoUrl: "https://www.youtube.com/embed/n7NdyH4tquI"
 image: "/uploads/sermons/love-in-action.webp"
 summary: "Discover how Jesus' example of servant leadership calls us to love others through practical acts of service and sacrifice."
 tags: ["service", "love", "discipleship"]
@@ -35,7 +35,7 @@ Jesus demonstrated the ultimate act of love through service when He washed His d
 
 ### Ways to Serve
 
-- **In Our Church**: Volunteering in ministries, helping with events
+- **In Our House**: Volunteering in ministries, helping with events
 - **In Our Community**: Food banks, community cleanup, visiting elderly
 - **In Our Families**: Acts of kindness and service at home
 - **In Our Workplaces**: Being helpful and considerate colleagues

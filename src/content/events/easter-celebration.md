@@ -32,15 +32,15 @@ Easter is the most important celebration in the Christian calendar, and we invit
 
 - Beautiful Easter lily decorations
 - Special music by our choir and worship team
-- Photography opportunities in the church garden
+- Photography opportunities in the house garden
 - Light refreshments between services
 
 ### Easter Egg Hunt
 
-Immediately following the 10:30 AM service, children ages 2-12 are invited to participate in our annual Easter egg hunt in the church courtyard.
+Immediately following the 10:30 AM service, children ages 2-12 are invited to participate in our annual Easter egg hunt in the house courtyard.
 
 ### Invite Your Friends and Family
 
-Easter is a perfect time to invite friends and family to experience the joy of our church community. We'll have welcome packets for all visitors.
+Easter is a perfect time to invite friends and family to experience the joy of our house community. We'll have welcome packets for all visitors.
 
 *Nursery care available for both services*

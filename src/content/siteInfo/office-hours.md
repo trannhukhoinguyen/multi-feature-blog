@@ -1,10 +1,10 @@
 ---
-title: "Church Office & Activity Hours"
+title: "House Office & Activity Hours"
 ---
 
-Here are the operational hours for our church office and main activities:
+Here are the operational hours for our house office and main activities:
 
-### Church Office Hours
+### House Office Hours
 
 *   **Monday - Friday:** 9:00 AM - 5:00 PM
 *   **Saturday:** 9:00 AM - 1:00 PM

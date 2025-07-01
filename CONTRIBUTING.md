@@ -1,6 +1,6 @@
-# Contributing to maucariapacom-church-starter
+# Contributing to maucariapacom-house-starter
 
-First off, thank you for considering contributing to the MauCariApa.com Church Starter template! We welcome contributions from the community to make this template even better for church websites PDPN.
+First off, thank you for considering contributing to the MauCariApa.com House Starter template! We welcome contributions from the community to make this template even better for house websites PDPN.
 
 Whether you're fixing a bug, improving documentation, adding a new feature, or suggesting an enhancement, your help is appreciated.
 
@@ -28,9 +28,9 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 ### Reporting Bugs
 
-If you find a bug, please ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/MauCariApa-com/maucariapacom-church-starter/issues).
+If you find a bug, please ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/MauCariApa-com/maucariapacom-house-starter/issues).
 
-If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/MauCariApa-com/maucariapacom-church-starter/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample or an executable test case** demonstrating the expected behavior that is not occurring.
+If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/MauCariApa-com/maucariapacom-house-starter/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample or an executable test case** demonstrating the expected behavior that is not occurring.
 
 Provide information about your environment:
 - Astro version
@@ -41,8 +41,8 @@ Provide information about your environment:
 ### Suggesting Enhancements or New Features
 
 We love to hear new ideas to improve this template!
-1. Search [Issues](https://github.com/MauCariApa-com/maucariapacom-church-starter/issues) to see if the enhancement has already been suggested.
-2. If not, [open a new issue](https://github.com/MauCariApa-com/maucariapacom-church-starter/issues/new) to start a discussion about your idea. Please provide a clear description of the enhancement and why it would be beneficial.
+1. Search [Issues](https://github.com/MauCariApa-com/maucariapacom-house-starter/issues) to see if the enhancement has already been suggested.
+2. If not, [open a new issue](https://github.com/MauCariApa-com/maucariapacom-house-starter/issues/new) to start a discussion about your idea. Please provide a clear description of the enhancement and why it would be beneficial.
 
 ### Pull Requests
 
@@ -100,7 +100,7 @@ To get the project конку up and running locally, follow the instructions in
 Before you submit your pull request,
 * Ensure your changes are well-tested.
 * Update the README.md or other relevant documentation if your changes require it.
-* Make sure your branch is up-to-date with the `main` branch of `MauCariApa-com/maucariapacom-church-starter`.
+* Make sure your branch is up-to-date with the `main` branch of `MauCariApa-com/maucariapacom-house-starter`.
 * You may (and are encouraged to) squash your commits into a single, well-worded commit message before submitting.
 
 Once you're ready, submit your pull request to the `main` branch. One of the maintainers will review your PR and provide feedback or merge it.

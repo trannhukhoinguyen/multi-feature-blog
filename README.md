@@ -1,11 +1,11 @@
-# maucariapacom-church-starter [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+# maucariapacom-house-starter [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
-An open-source starter template for building high-performance, content-driven church websites with Astro. Pure SSG, SEO-ready, built with Tailwind CSS, Markdown content, ready to integrate with any CMS
+An open-source starter template for building high-performance, content-driven house websites with Astro. Pure SSG, SEO-ready, built with Tailwind CSS, Markdown content, ready to integrate with any CMS
 
 ## Demo and Screenshot
 ![Home Page](https://imgs.maucariapa.com/uploads/452546054-84337aa6-eea8-4879-9461-d2e7d3665aee.png)
 
-Demo URL: [https://maucariapacom-church-starter.pages.dev](https://maucariapacom-church-starter.pages.dev/)
+Demo URL: [https://maucariapacom-house-starter.pages.dev](https://maucariapacom-house-starter.pages.dev/)
 
 ## Features
 
@@ -14,16 +14,16 @@ Demo URL: [https://maucariapacom-church-starter.pages.dev](https://maucariapacom
 - **Mobile-First Responsive Design**: Tailwind CSS for beautiful, responsive layouts
 - **SEO Optimized**: Complete meta tags, JSON-LD Schema, and sitemap.xml
 - **CMS-Ready Structure**: Easily integrate with headless CMS solutions
-- **Comprehensive Church Website Sections**: All essential pages for a complete church website
+- **Comprehensive House Website Sections**: All essential pages for a complete house website
 - **Accessibility Focus**: WCAG compliant design and markup
 - **Modern UI Components**: Reusable components with hover states and micro-interactions
-- **Integrated Church Icon**: Custom SVG church icon used throughout the site
+- **Integrated House Icon**: Custom SVG house icon used throughout the site
 - **Image Optimization**: Proper image organization and fallback handling
 
 ## Project Structure
 
 ```
-maucariapacom-church-starter/
+maucariapacom-house-starter/
 ├── public/
 │   ├── uploads/          # Images directories (staff, events, sermons, etc.)
 │   │   ├── staff/        # Staff profile images
@@ -43,7 +43,7 @@ maucariapacom-church-starter/
 │   ├── content/          # Astro Content Collections
 │   │   ├── config.ts     # Collection schemas
 │   │   ├── staff/        # Staff member profiles
-│   │   ├── events/       # Church events
+│   │   ├── events/       # House events
 │   │   ├── sermons/      # Sermon content
 │   │   ├── ministries/   # Ministry descriptions
 │   │   ├── blog/         # Blog posts
@@ -67,8 +67,8 @@ maucariapacom-church-starter/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MauCariApa-com/maucariapacom-church-starter.git
-   cd maucariapacom-church-starter
+   git clone https://github.com/MauCariApa-com/maucariapacom-house-starter.git
+   cd maucariapacom-house-starter
    ```
 
 2. Install dependencies:
@@ -169,10 +169,10 @@ See `src/content/config.ts` for the complete schema definitions for all content 
 - **Homepage** (`/`): Hero section, service times, about preview, recent events/sermons
 - **About Us** (`/about-us`): Mission, values, history, staff preview
 - **Staff** (`/staff`): Complete staff directory with contact information
-- **Ministries** (`/ministries`): All church ministries with detailed pages
+- **Ministries** (`/ministries`): All house ministries with detailed pages
 - **Sermons** (`/sermons`): Sermon archive with audio/video support and filtering
 - **Events** (`/events`): Upcoming and past events with registration support
-- **Blog** (`/blog`): Church blog with filtering and search
+- **Blog** (`/blog`): House blog with filtering and search
 - **I'm New** (`/im-new`): First-time visitor information
 - **Contact** (`/contact`): Contact forms, location, staff contacts
 - **Giving** (`/giving`): Online giving information and financial transparency
@@ -189,12 +189,12 @@ See `src/content/config.ts` for the complete schema definitions for all content 
 
 ### Site Information
 
-Update your church information in the following files:
+Update your house information in the following files:
 
 - Site metadata in `astro.config.mjs`
 - SEO defaults in `src/layouts/BaseLayout.astro`
 - Contact information in `src/components/Global/Footer.astro`
-- Church details throughout the content files
+- House details throughout the content files
 
 ### Styling
 
@@ -206,7 +206,7 @@ This template uses Tailwind CSS for styling:
 
 ### Logo & Branding
 
-The template includes a built-in church SVG icon that's used throughout the site. To customize:
+The template includes a built-in house SVG icon that's used throughout the site. To customize:
 
 1. Replace the SVG icon in `src/components/Global/Header.astro` and `src/components/Global/Footer.astro`
 2. Update favicon in `public/favicon.svg`
@@ -289,7 +289,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Bugs / Issues
 
 We appreciate your understanding and encourage you to report any new bugs you find by
-[opening an issue](https://github.com/MauCariApa-com/maucariapacom-church-starter/issues)
+[opening an issue](https://github.com/MauCariApa-com/maucariapacom-house-starter/issues)
 on our GitHub repository.
 
 ## Acknowledgments
@@ -311,4 +311,4 @@ Love our work?
 
 ---
 
-Created with ❤️ for church communities worldwide
+Created with ❤️ for house communities worldwide

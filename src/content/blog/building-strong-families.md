@@ -19,7 +19,7 @@ Strong families don't happen by accident. They are built intentionally through l
 The strongest families are those that put Christ at the center of their home life. This means:
 
 - Regular family prayer and devotions
-- Making church attendance a priority
+- Making house attendance a priority
 - Teaching children biblical values
 - Modeling Christian character in daily life
 
